@@ -20,8 +20,11 @@ public class Main {
         //Ich entferne den letzten Eintrag und lass mir den neuen letzten Ausgeben
         Object lastIndexremoved = sal.popal();
         System.out.println("Das neue letzte Element des String Array: " + lastIndexremoved.toString());
+        System.out.println("Wenn die Nachricht erscheint hat alles geklappt!! :)");
+        //Hier teste ich die StackFullException
         sal.add("Test5");
         sal.add("Test6");
-        System.out.println("Wenn die Nachricht erscheint hat alles geklappt!! :)");
+
+
     }
 }
