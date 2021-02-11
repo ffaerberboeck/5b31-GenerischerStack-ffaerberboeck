@@ -2,7 +2,7 @@ package ffaerberboeck;
 import java.util.ArrayList;
 
 /**
- * Diese Klasse formt einen Stack !! WICHTIG: Statt den Array Rückgabetypen könnte man auch String verwenden dennoch habe ich <Array> verwendet, da ich glaube das wir das in den nächsten Übungen weiterverwenden.
+ * Diese Klasse formt einen Stack
  * @param <Array> Der zu formende Datentyp
  * @author Finn Faerberboeck
  * @version 2021-05-01
